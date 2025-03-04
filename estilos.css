@@ -21,8 +21,8 @@ body {
 /* CONTENEDOR*/
 
 #contenedor {
-  height: 220px;
-  width: 400px;
+  height: 200px;
+  width: 350px;
   background: white;
   border: 5px solid black;
   flex-wrap: wrap;
