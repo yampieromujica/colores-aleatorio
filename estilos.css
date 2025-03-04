@@ -22,7 +22,7 @@ body {
 
 #contenedor {
   height: 220px;
-  width: 450px;
+  width: 400px;
   background: white;
   border: 5px solid black;
   flex-wrap: wrap;
